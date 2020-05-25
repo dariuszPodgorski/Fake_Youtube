@@ -88,13 +88,13 @@
     display: none;
 }
 
-.is-mobile-search-trigger {
+.site-nav_action-triger-is-mobile-search-trigger {
     display: none;
 }
 
 @media (max-width: 656px) {
 
-    .is-mobile-search-trigger,
+    .site-nav_action-triger-is-mobile-search-trigger,
     .site-nav_search-back {
         display: block;
     }
